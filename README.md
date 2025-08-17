@@ -1,0 +1,1 @@
+Motok é um aplicativo completo para entregas sob demanda, conectando clientes e entregadores de forma simples, rápida e segura. Com funcionalidades avançadas, o app oferece uma experiência diferenciada para quem precisa enviar ou receber encomendas de maneira eficiente.
