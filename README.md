@@ -1,1 +1,0 @@
-Motok Go é um aplicativo completo para entregas sob demanda e gestão de e-commerce, conectando negócios locais, entregadores e clientes de forma simples, rápida e segura. Com funcionalidades avançadas de IA e integrações poderosas, o app oferece uma experiência de ponta para quem precisa enviar ou vender online com eficiência.
