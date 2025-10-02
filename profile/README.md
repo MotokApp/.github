@@ -1,7 +1,3 @@
-O seu texto está pronto, com os devidos espaçamentos, para ser copiado e colado.
-
----
-
 ## Português
 **🚀 Motok App – A Solução Definitiva para Entregas 🚀**
 
