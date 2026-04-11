@@ -1,83 +1,104 @@
-## Português
+## 🇧🇷 Português
 **🚀 Motok App – A Solução Definitiva para Entregas 🚀**
 
-Motok App é um aplicativo completo para entregas sob demanda e gestão de e-commerce, conectando negócios locais, entregadores e clientes de forma simples, rápida e segura. Com funcionalidades avançadas de IA e integrações poderosas, o app oferece uma experiência de ponta para quem precisa enviar ou vender online com eficiência.
+Motok App é um **aplicativo completo para entregas sob demanda e gestão de e-commerce**, conectando negócios locais, entregadores e clientes de forma simples, rápida e segura. Com funcionalidades avançadas de IA e integrações poderosas, o app oferece uma experiência de ponta para quem precisa enviar ou vender online com eficiência.
 
 ### **Principais Funcionalidades:**
 
-✅ **Gestão de Perfis:** Perfis completos para gestores de negócios e entregadores, com avatares, informações de contato e histórico.
+✅ **Gestão de Perfis:** Perfis completos para gestores de negócios e entregadores, com avatares, informações de contato e histórico detalhado.
 
-✅ **Solicitação de Entrega com IA:** Peça entregas com um mapa interativo, autocomplete de endereços e estimativas de tempo e custo calculadas por **Inteligência Artificial (Genkit)**.
+✅ **Múltiplos Modos de Despacho e IA:** Solicite entregas com mapa interativo, autocompletar e estimativas de preço/tempo via **Inteligência Artificial (Genkit)**. Acesse os Modos Normal, Flash (Prioridade Máxima), Multiponto (várias paradas) e Frota Própria.
 
-✅ **Integração Completa com iFood:** Sincronize pedidos, gerencie o status da sua loja, programe pausas e visualize seus horários no iFood diretamente do nosso painel.
+✅ **Integração Completa com iFood:** Sincronize pedidos via polling/webhooks, gerencie o status da sua loja, programe pausas e visualize seus horários no iFood diretamente do nosso painel MotokApp.
 
-✅ **Sua Vitrine de E-commerce:** Crie um cardápio digital com categorias e itens, e receba pedidos através de uma página pública exclusiva para o seu negócio.
+✅ **Sua Vitrine de E-commerce:** Crie um cardápio digital com categorias e itens e receba pedidos através de uma página pública exclusiva para o seu negócio.
 
-✅ **Rastreamento GPS em Tempo Real:** Visualize a localização do entregador no mapa, acompanhe o status do pedido e comunique-se via chat integrado.
+✅ **Rastreamento GPS em Tempo Real:** Forneça um link público para acompanhar a **localização exata do entregador no mapa**, acompanhe o status da sua carga e comunique-se via chat.
 
-✅ **Painel do Entregador Profissional:** Ferramentas para o entregador ficar online, aceitar corridas, gerenciar seus ganhos em uma carteira digital e analisar sua lucratividade com um sistema de custos.
+✅ **Painel do Entregador Profissional (App Nativo):** Ferramentas para o motoboy ficar online com **GPS persistente em background**, receber corridas com alertas que acendem a tela (Wake-Up Device), gerenciar saques atômicos via **PIX** na carteira digital e analisar sua lucratividade com gestão de custos (combustível, manutenção).
 
-✅ **Gamificação e Carreira para Entregadores:** Sistema de níveis (Bronze, Prata, Ouro) e XP para incentivar o desempenho e a fidelidade.
+✅ **Gamificação e Carreira (Token WMOTOK):** O primeiro sistema real de progressão com níveis (Bronze, Prata, Ouro e Diamante) liderado por Desafios Semanais criados magicamente por IA.
 
-✅ **Relatórios e Histórico:** Acesse entregas passadas, acompanhe o faturamento e consulte estatísticas detalhadas sobre sua operação.
+✅ **Relatórios e KPIs Administrativos:** Acesse painéis de desempenho do dia, gerencie lucros líquidos, e utilize recursos como o "Despacho Manual (Deus)" para gerir sua logística em tempo real.
 
 ---
 
 ### **Diferenciais do Motok App:**
 
-🚀 **Inteligência Artificial:** Use o poder da IA para obter as melhores estimativas de tempo e custo para suas entregas.
+🚀 **Inteligência Artificial:** Use o poder da IA para obter as melhores estimativas e engajar a sua base gerando missões orgânicas e dinâmicas para os motoristas.
 
-📌 **Centralização Total:** Gerencie suas entregas, seu cardápio online e sua operação do iFood em um único lugar.
+📌 **Centralização Total:** Gerencie suas entregas, seu cardápio online e sua operação do iFood a partir de um único ambiente robusto em Next.js.
 
-💰 **Análise de Lucratividade:** Entregadores podem registrar seus custos (combustível, manutenção) para entender seu lucro líquido real.
+💰 **Análise de Lucratividade Real:** Transparência financeira total, permitindo calculadoras de lucro líquido direto no app da frota com saques imediatos.
 
-🔒 **Segurança e Confiabilidade:** Plataforma robusta com autenticação segura e um fluxo de verificação de documentos para entregadores.
+🔒 **Segurança e Confiabilidade:** Autenticação Firebase segura, aprovação rigorosa de KYC de motoristas e tecnologia nativa garantindo que os alertas nunca falhem.
 
 **Motok App: sua operação de delivery, agora mais inteligente.** 🚀🔝
 
-Por favor, dê uma olhada em nosso repositório com todos os documentos: [https://github.com/MotokApp/Suporte](https://github.com/MotokApp/Suporte)
+---
+### 🔗 **Nossos Links Oficiais**
 
-Também visite o nosso canal no youtube: [https://www.youtube.com/@dbltecnologia](https://www.youtube.com/@dbltecnologia)
+📚 **Documentação Mestre:** [https://github.com/MotokApp/Suporte](https://github.com/MotokApp/Suporte)  
+📺 **Vlog do Projeto & Canal Institucional:** [Inscreva-se na DBL Tecnologia](https://www.youtube.com/@dbltecnologia)  
+📺 **Playlist Completa de Desenvolvimento:** [Acessar Log de Criação](https://www.youtube.com/watch?v=VoqLhgRQ-Ew&list=PL3CNm1uwGm_A_pMVH8ImQSltNo_GZSS-D)  
+💻 **WebApp Console (Admin e Clientes):** [https://app.motokapp.com.br/](https://app.motokapp.com.br/)  
+📱 **App do Motoboy (APK Android):** [Download pelo Google Drive](https://drive.google.com/file/d/11JqrGNEj0fkbvkWys1zsgV3QzJiiZBdE/view?usp=drive_link)  
+
+**🔐 Credenciais de Teste (Sandbox)**  
+_Senha Padrão para os testes abaixo:_ `123456`
+- **Cliente / Lojista:** `cliente@gmail.com`
+- **Entregador:** `entregador@gmail.com`
+- **Admin:** `admin@gmail.com`
 
 ---
 
-## English
+## 🇺🇸 English
 **🚀 Motok App – The Ultimate Delivery Solution 🚀**
 
-Motok App is a **complete on-demand delivery and e-commerce management app**, seamlessly connecting local businesses, couriers, and customers in a **simple, fast, and secure** way. With advanced AI features and powerful integrations, the app **enhances the delivery experience** for anyone who needs to ship or sell online efficiently.
+Motok App is a **complete on-demand delivery and e-commerce management platform**, seamlessly connecting local businesses, couriers, and customers in a **simple, fast, and secure** way. With advanced AI features and powerful integrations, the app **enhances the delivery experience** for anyone who needs to ship or sell online efficiently.
 
 ### **Key Features:**
 
-✅ **Profile Management:** Comprehensive profiles for business managers and couriers, with avatars, contact information, and history.
+✅ **Profile Management:** Comprehensive profiles for business managers and couriers, with avatars, contact information, and detailed history logic.
 
-✅ **AI-Powered Delivery Requests:** Order deliveries with an interactive map, address autocomplete, and time/cost estimates calculated by **Artificial Intelligence (Genkit)**.
+✅ **Multi-Dispatch & AI Requests:** Order deliveries via Normal, Flash, Multi-point, and Private Fleet modes. Includes an interactive map, and time/cost estimates calculated by **Artificial Intelligence (Genkit)**.
 
-✅ **Full iFood Integration:** Sync orders, manage your store status, schedule interruptions, and view your iFood opening hours directly from our dashboard.
+✅ **Full iFood Integration:** Sync orders, manage your store status, schedule interruptions, and view your iFood opening hours directly from our main dashboard.
 
-✅ **Your E-commerce Storefront:** Create a digital menu with categories and items, and receive orders through an exclusive public page for your business.
+✅ **Your E-commerce Storefront:** Create a fully functional digital menu with categories and items, operating via an exclusive public page to convert directly.
 
-✅ **Live GPS Tracking:** Monitor the **courier’s location on the map**, track order status, and communicate via integrated chat.
+✅ **Live GPS Tracking:** Provide public tracking links to monitor the **courier’s location running seamlessly in the background**, track workflow states, and communicate via chat.
 
-✅ **Professional Courier Dashboard:** Tools for couriers to go online, accept rides, manage their earnings in a digital wallet, and analyze their profitability with a cost-tracking system.
+✅ **Professional Courier Dashboard (Native App):** Features for riders to stay online with wake-up screen notifications, accept dynamic rides, withdraw real-time money via PIX wallet, and log operational expenses (fuel, maintenance).
 
-✅ **Gamification & Career for Couriers:** A level system (Bronze, Silver, Gold) and XP to encourage performance and loyalty.
+✅ **Gamification & Courier Ecosystem:** A robust progression tree (Bronze, Silver, Gold, Diamond), the native WMOTOK token scheme, and weekly missions boosted by AI.
 
-✅ **Reports & History:** Access past deliveries, **track revenue**, and review **detailed analytics** about your operation.
+✅ **Live Reports & Admin Overrides:** Access past deliveries, track net revenue, read KPIs through dynamic dashboards and use override controls like Manual Dispatch.
 
 ---
 
 ### **Why Choose Motok App?**
 
-🚀 **Artificial Intelligence:** Leverage the power of AI to get the best time and cost estimates for your deliveries.
+🚀 **Artificial Intelligence:** Leverage the power of Gemini to get the smartest logistics estimations and craft engaging driver missions flawlessly.
 
-📌 **Total Centralization:** Manage your deliveries, your online menu, and your iFood operation all in one place.
+📌 **Total Centralization:** Manage your deliveries, your online menu, and your whole iFood proxy operation tightly coupled in one single ecosystem.
 
-💰 **Profitability Analysis:** Couriers can log their expenses (fuel, maintenance) to understand their real net profit.
+💰 **Profitability Analysis:** Transparent accounting mechanisms that ensure couriers understand their real net profit at the end of every trip.
 
-🔒 **Security & Trust:** A robust platform with secure authentication and a document verification flow for couriers.
+🔒 **Security & Trust:** Strict document verification (KYC), strong authentication rules, and background native coding guaranteeing full availability without battery drains.
 
 📦 **Motok App: Your delivery operation, now smarter.** 🚀🔝
 
-Please take a look in our repo with all docs: [https://github.com/MotokApp/Suporte](https://github.com/MotokApp/Suporte)
+---
+### 🔗 **Our Official Links**
 
-Please subscribe: [https://www.youtube.com/@dbltecnologia](https://www.youtube.com/@dbltecnologia)
+📚 **Master Documentation:** [https://github.com/MotokApp/Suporte](https://github.com/MotokApp/Suporte)  
+📺 **Subscribe to our Channel:** [DBL Tecnologia](https://www.youtube.com/@dbltecnologia)  
+💻 **WebApp Console (Admin & Clients):** [https://app.motokapp.com.br/](https://app.motokapp.com.br/)  
+📱 **Android App (Courier APK):** [Download from Google Drive](https://drive.google.com/file/d/11JqrGNEj0fkbvkWys1zsgV3QzJiiZBdE/view?usp=drive_link)  
+
+**🔐 Demo Credentials**  
+_Universal Password:_ `123456`
+- **Client / Manager:** `cliente@gmail.com`
+- **Courier:** `entregador@gmail.com`
+- **Admin:** `admin@gmail.com`
